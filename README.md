@@ -5,13 +5,11 @@
 
 - 👯 I’m looking to collaborate on **Website Development**
 
-- 🤝 I’m looking for help with **MERN STACK**
+- 🤝 I’m looking for help with **MERN STACK** & **Devops**
 
-- 💬 Ask me about **REACT, NODE, MongoDB, DATA STRUCTURES**
+- 💬 Ask me about **REACT, NODE, MongoDB, DATA STRUCTURES, Devops**
 
 - 📫 How to reach me **priyanshuvatsyan@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d4l1nQ3ccRsln-SuUvCBddOUsWfVZ9Xf/view?usp=sharing](https://drive.google.com/file/d/1d4l1nQ3ccRsln-SuUvCBddOUsWfVZ9Xf/view?usp=sharing)
 
 - ⚡ Fun fact **I am a crazy coder**
 
